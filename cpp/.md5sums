@@ -1,0 +1,10 @@
+f78225ecb38f7214a9fb58718b38eabb  main.cpp
+01cc49fb2914964e7941d82068765874  Servertcp.h
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+0fbe00463c090267af7c6a8898b3fa91  Servertcp_base.h
+f24154094fc3f19b3b440e1f61a1ceec  configure.ac
+23026c540616ce4ea8bc59096c245cc8  Makefile.am
+f37114575eb186a84441e028be22dee6  Makefile.am.ide
+7c519eb2610c0d99991435a2a6899a73  Servertcp.cpp
+a768612e9ad97a341694f0d79d8b0165  Servertcp_base.cpp
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
